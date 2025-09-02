@@ -27,7 +27,7 @@ The API is built with **FastAPI** and can be run locally or deployed on a server
 
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/yourusername/summarization-api.git
+git clone https://github.com/Ahmedaliuajk/Text_Summarization_Model/tree/main
 cd summarization-api
 ```
 
